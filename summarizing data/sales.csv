@@ -1,0 +1,50 @@
+Location Sales Volume Range,Type of Business,Count
+$5-10 Million,Wholesale,107
+$5-10 Million,Manufacturing,19
+$5-10 Million,Retail,13
+$5-10 Million,Supplier,23
+$5-10 Million,,6
+"$500,000-1 Million",Manufacturing,86
+"$500,000-1 Million",Supplier,47
+"$500,000-1 Million",,12
+"$500,000-1 Million",Retail,41
+"$500,000-1 Million",Wholesale,1
+"$500,000-1 Million",Retailer,1
+,Manufacturing,21
+,Supplier,6
+,Wholesale,15
+,,94
+,Retail,12
+,Retailer,1
+$1-2.5 Million,Manufacturing,57
+$1-2.5 Million,Supplier,39
+$1-2.5 Million,Wholesale,11
+$1-2.5 Million,,15
+$1-2.5 Million,Retail,31
+$1-2.5 Million,Retailer,1
+"Less Than $500,000",Manufacturing,90
+"Less Than $500,000",Supplier,21
+"Less Than $500,000",,6
+"Less Than $500,000",Retail,2
+"Less Than $500,000",Retailer,1
+$2.5-5 Million,,6
+$2.5-5 Million,Manufacturing,29
+$2.5-5 Million,Wholesale,51
+$2.5-5 Million,Supplier,37
+$2.5-5 Million,Retail,14
+$10-20 Million,Wholesale,34
+$10-20 Million,Supplier,6
+$10-20 Million,Manufacturing,9
+$10-20 Million,,12
+$10-20 Million,Retail,4
+$20-50 Million,Wholesale,13
+$20-50 Million,Manufacturing,5
+$20-50 Million,Supplier,1
+$20-50 Million,,1
+$20-50 Million,Retail,1
+$50-100 Million,Manufacturing,1
+$50-100 Million,Wholesale,8
+$50-100 Million,Retailer,1
+$50-100 Million,,1
+$100-500 Million,Wholesale,8
+$100-500 Million,Manufacturing,1

@@ -1,0 +1,42 @@
+Employees,Type of Business,Count
+1 to 4,Wholesale,130
+1 to 4,Manufacturing,101
+1 to 4,Supplier,87
+1 to 4,,23
+1 to 4,Retail,22
+1 to 4,Retailer,3
+10 to 19,Manufacturing,47
+10 to 19,Supplier,31
+10 to 19,,14
+10 to 19,Wholesale,24
+10 to 19,Retail,11
+5 to 9,Manufacturing,89
+5 to 9,Wholesale,60
+5 to 9,Supplier,41
+5 to 9,,22
+5 to 9,Retail,61
+5 to 9,Retailer,1
+50 to 99,Manufacturing,19
+50 to 99,Supplier,4
+50 to 99,Wholesale,12
+50 to 99,Retailer,1
+50 to 99,,2
+50 to 99,Retail,9
+20 to 49,Manufacturing,46
+20 to 49,Wholesale,13
+20 to 49,Retail,12
+20 to 49,Supplier,14
+20 to 49,,5
+100 to 249,Manufacturing,11
+100 to 249,Wholesale,4
+100 to 249,Supplier,1
+100 to 249,,1
+500 to 999,Manufacturing,2
+500 to 999,Wholesale,1
+250 to 499,Manufacturing,2
+250 to 499,Wholesale,1
+,Supplier,2
+,Wholesale,3
+,,86
+,Retail,3
+1000 to 4999,Manufacturing,1
